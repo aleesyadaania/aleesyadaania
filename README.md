@@ -1,16 +1,21 @@
-## Hi there 👋
+## ｗｅｌｃｏｍｅ ｔｏ ｍｙ ｐｒｏｆｉｌｅ  ≽^•⩊•^≼
 
-<!--
-**aleesyadaania/aleesyadaania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm currently a 1<sup>st</sup> Year Bachelor's degree student in Computer Science (Graphics and Multimedia Software) at Universiti Teknologi Malaysia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm hoping to one day be a successful game developer. Please keep an eye on me!
+
+If you want to reach me, please contact me via e-mail: [aleesyadaania@graduate.utm.my](https://mail.gmail.com)
+
+## Courses:
+
+- SECI1013 Discrete Structure
+- SECJ1013 Programming Techniques I
+- SECR1013 Digital Logic
+- SECP1513 Technology and Information Systems
+- ULRS1032 Kursus Integriti dan Anti-Rasuah (Integrity and Anti-Corruption Course)
+  
+[Click here further info on the courses!](https://people.utm.my/fazliaty-edora/wp-content/uploads/sites/3336/2025/03/SECV-20222023.pdf)
+
+## Languages and Tools:
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>

@@ -1,4 +1,4 @@
-## ｗｅｌｃｏｍｅ ｔｏ ｍｙ ｐｒｏｆｉｌｅ  ≽^•⩊•^≼
+## Ｗｅｌｃｏｍｅ ｔｏ ｍｙ ｐｒｏｆｉｌｅ  ≽^•⩊•^≼
 
 
 I'm currently a 1<sup>st</sup> Year Bachelor's degree student in Computer Science (Graphics and Multimedia Software) at Universiti Teknologi Malaysia.

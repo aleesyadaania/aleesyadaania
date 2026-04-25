@@ -9,13 +9,14 @@ If you want to reach me, please contact me via e-mail: [aleesyadaania@graduate.u
 
 ## Courses:
 
-- SECI1013 Discrete Structure
-- SECJ1013 Programming Techniques I
-- SECR1013 Digital Logic
-- SECP1513 Technology and Information Systems
-- ULRS1032 Kursus Integriti dan Anti-Rasuah (Integrity and Anti-Corruption Course)
+- SECC1113 Mathematics for Computer Graphics
+- SECJ1023 Programming Techniques II
+- SECD2613 System Analysis and Design
+- SECR1033 Computer Organisation and Architecture
+- SECI1143 Probability and Statistics Analysis
+- ULRS1182 Appreciation of Ethics and Civilisations
   
-[Click here further info on the courses!](https://people.utm.my/fazliaty-edora/wp-content/uploads/sites/3336/2025/03/SECV-20222023.pdf)
+[Click here for further info on the courses!](https://people.utm.my/fazliaty-edora/wp-content/uploads/sites/3336/2025/03/SECV-20222023.pdf)
 
 ## Languages and Tools:
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
